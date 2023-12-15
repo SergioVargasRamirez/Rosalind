@@ -3,3 +3,10 @@
 
 This repository contains my collection of Python scripts to solve Rosalind's problems.
 
+The following folders are included:
+
+	- Basics: solves the "basic" Rosalind problems, mostly dealing with Python
+	- Bioinf_Basics: solves the basic bioinformatics problems avail. in Rosalind.
+
+
+
